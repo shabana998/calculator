@@ -22,7 +22,11 @@ Welcome to the **Stylish Wooden Calculator**! 🏆🎉 This is not your ordinary
 3️⃣ Click on buttons to start calculating! 🧠🧮  
 4️⃣ Enjoy the smooth interface & sound effects 🎶🔢  
 
-## 🔮 Future Enhancements 
+
+### 📸 Preview
+![Wooden Calculator Screenshot](screenshot3.png)
+
+## 🔮 Future Enhancements
 🔹 **Implement memory functions** (M+, M-, MR) 🧠💾  
 🔹 **Improve error handling** 🚨🛑  
 
